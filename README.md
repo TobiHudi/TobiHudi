@@ -1,9 +1,9 @@
-## GitHub Portfolio: Tobias Hudelist
+# GitHub Portfolio: Tobias Hudelist
 
-# Projects:
+## Projects:
 -Liberio
 
-# Liberio:
+## Liberio:
 A simple shelf sorting game. Sort shelves and get better upgrades.
 
 ### Goal of Liberio:
@@ -12,7 +12,7 @@ The main goal of this project was to deepen my understanding of object oriented 
 
 More to the Project can be found inside the repo! (Signal paths, ect...)
 
-# About me:
+## About me:
 
 ### My Work Life:
 
